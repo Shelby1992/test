@@ -111,6 +111,9 @@
     "PrivateBytes" : 1200000000,
     "RequestsInApplicationQueue" : 10
   },
+    "Microsoft.Web/serverFarms" : {
+    "MemoryPercentage" : 50
+  },
   "Microsoft.ContainerService/managedClusters" : {
     "node_cpu_usage_percentage" : 95,
     "node_memory_working_set_percentage" : 100,
