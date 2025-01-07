@@ -106,7 +106,7 @@
     "ThrottledRequests" : 0
   },
   "Microsoft.Web/sites" : {
-    "HttpResponseTime" : 0.1,
+    "HttpResponseTime" : 1,
     "CpuTime" : 120,
     "PrivateBytes" : 1200000000,
     "RequestsInApplicationQueue" : 10
