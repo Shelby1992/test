@@ -112,7 +112,8 @@
     "RequestsInApplicationQueue" : 10
   },
     "Microsoft.Web/serverFarms" : {
-    "MemoryPercentage" : 50
+    "MemoryPercentage" : 50,
+    "CpuPercentage" : 45
   },
   "Microsoft.ContainerService/managedClusters" : {
     "node_cpu_usage_percentage" : 95,
