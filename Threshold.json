@@ -6,7 +6,7 @@
     "RequestsInApplicationQueue" : 10
   },
     "Microsoft.Web/serverFarms" : {
-    "MemoryPercentage" : 70,
-    "CpuPercentage" : 10
+    "MemoryPercentage" : 85,
+    "CpuPercentage" : 50
   }
 }
